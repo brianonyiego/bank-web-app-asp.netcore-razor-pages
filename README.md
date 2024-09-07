@@ -1,27 +1,19 @@
 Bank-Transaction-System
-A basic transaction management system, serves the purpose of keeping track of some information such as account number, bank name, amount etc. This is a MVC Project, performes the basic database CRUD operation.
+A basic transaction management system designed to keep track of key banking information such as account numbers, bank names, and transaction amounts. This is an MVC project that performs basic database CRUD operations.
+
 Tech Stack
-Client: Presentation or View Layer written with HTML, CSS, Razor View Engine
+Client: HTML, CSS, Razor View Engine
 Server: ASP.NET Core MVC, MSSQL Server, Entity Framework Core
-IDE/Tools: Microsoft Visual Studio, Microsoft Visual Studio Code, Microsoft SQL Server Management Studio
+IDE/Tools: Microsoft Visual Studio, Visual Studio Code, Microsoft SQL Server Management Studio
 Documentation
-Project Description: In this project I've tried to build an Transaction Management System for Banking Information, which will keep all the transaction details of an organization. The Basic CRUD operation has performed in order to make this project functional, which are Create, Read, Update and Delete any transaction record.
-Back-end Task: I've chosen ASP.NET Core 6 MVC pattern backend framework to build and manage the renowned three modules; Model-View-Controller and execute some functionalities such as Create, Read, Update and Delete by communicating with the database From Controller module based upon the Models. For Database table creation and data migration, I used Entity Framework Core ORM Tool, And Microsoft SQL Server Management Studio is used for Database Management purpose.
-Front-end Task: To visualize content on client side (in browser) I've used Razor View Engine as server side markup language but for viewing purpose.
-Specific Components and webpages are created with HTML, CSS and Razor HTML Embedding.
+Project Description
+This project is a Transaction Management System for banking information. It keeps transaction records for an organization and allows users to Create, Read, Update, and Delete (CRUD) transaction data.
+
+Back-end Task
+The backend is built using the ASP.NET Core 6 MVC framework, utilizing the Model-View-Controller pattern. The Entity Framework Core ORM tool is used for database operations like table creation and data migration, while Microsoft SQL Server Management Studio is used to manage the database.
+
+Front-end Task
+To display data on the client side, Razor View Engine is used as the server-side markup language. HTML and CSS are used to create and style the webpage components.
+
 Demo Screenshots:
- 
-
-
-
-
- 
-After login:
- 
- 
- 
- 
- 
-
- 
 
