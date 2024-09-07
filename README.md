@@ -18,5 +18,3 @@ The backend is built using the **ASP.NET Core 6 MVC** framework, utilizing the *
 ### Front-end Task
 To display data on the client side, **Razor View Engine** is used as the server-side markup language. **HTML** and **CSS** are used to create and style the webpage components.
 
-### Demo Screenshots:
-(Add screenshots here)
